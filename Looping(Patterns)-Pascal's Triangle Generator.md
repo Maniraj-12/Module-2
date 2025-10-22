@@ -39,6 +39,11 @@ for i in range(n):
 ```
 
 ## Sample Output
+<img width="490" height="557" alt="image" src="https://github.com/user-attachments/assets/e7f5f4b3-2fe0-426e-91ea-d9b6c1690a00" />
+
 
 ## Result
+The Python program that generates Pascal's Triangle using numbers. The number of rows is accepted from the user is executed successfully.
+
+
 
