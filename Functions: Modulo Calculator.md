@@ -20,5 +20,9 @@ print(result(a,b))
 ```
 
 ## Output
+<img width="497" height="233" alt="image" src="https://github.com/user-attachments/assets/4caff13a-46c3-4f77-a485-888c2ca7df0c" />
+
 
 ## Result
+The Python program that defines a function which accepts two values and returns their modulo using the % operator is executed successfully.
+
